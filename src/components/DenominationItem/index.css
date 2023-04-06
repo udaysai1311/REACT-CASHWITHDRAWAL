@@ -1,0 +1,13 @@
+.button {
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: 1px solid #d4d2db;
+  height: 40px;
+  width: 180px;
+  font-size: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
